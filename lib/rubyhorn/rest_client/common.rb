@@ -13,7 +13,7 @@ module Rubyhorn::RestClient
       login
     end
 
-    def timeout
+    def view_timeout
       @timeout
     end
 
